@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maartenSiem/react-skeleton.git"
+    "url": "git+https://github.com/maartenSiem/react-router.git"
   },
   "author": "Maarten Siem",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maartenSiem/react-skeleton/issues"
+    "url": "https://github.com/maartenSiem/react-router/issues"
   },
-  "homepage": "https://github.com/maartenSiem/react-skeleton#readme",
+  "homepage": "https://github.com/maartenSiem/react-router#readme",
   "dependencies": {
     "babel-preset-react": "^6.3.13",
     "babelify": "^7.2.0",
